@@ -1,3 +1,5 @@
+// Time Complexity: O(n) + O(v+2e)
+// Space Complexity: O(n) + O(n)
 class Solution {
 public:
     unordered_map<int,vector<int>> adj;
